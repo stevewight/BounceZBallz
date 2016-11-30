@@ -1,7 +1,25 @@
 # BounceZBallz
 Physics based iOS puzzle game, previously on the app store.
 
-(Enter screen gifs of BZB in action)
+![](https://github.com/stevewight/BounceZBallz/blob/master/images/bzb_1.gif)
+
+Watch the beautiful clouds fly by!
+
+![](https://github.com/stevewight/BounceZBallz/blob/master/images/bzb_2.gif)
+
+Select any level you want, or play through in order
+
+![](https://github.com/stevewight/BounceZBallz/blob/master/images/bzb_3.gif)
+
+Level complexity increases as you progress
+
+![](https://github.com/stevewight/BounceZBallz/blob/master/images/bzb_4.gif)
+
+The "How To" tutorial walks you through the rules with a quick and visual guide
+
+![](https://github.com/stevewight/BounceZBallz/blob/master/images/bzb_5.gif)
+
+Get additional help and see the scores you have accumulated
 
 ## RIP 2011-2016
 
