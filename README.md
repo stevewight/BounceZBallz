@@ -11,4 +11,4 @@ Physics based iOS puzzle game, previously on the app store.
 
 ## License
 
-BounceZBallz is on the github using the ***MIT*** license. See LICENSE for details.
+BounceZBallz is on the interwebs using the ***MIT*** license. See LICENSE for details.
