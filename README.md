@@ -19,13 +19,15 @@ The "How To" tutorial walks you through the rules with a quick and visual guide
 
 ![](https://github.com/stevewight/BounceZBallz/blob/master/images/bzb_5.gif)
 
-Get additional help and see the scores you have accumulated
+Get additional help and see the stars scored for each level
+
+**_Note:_** The code base has the full version with all 21 levels, where as the screen shots show the **_Free_** version with only 9 levels.
 
 ## RIP 2011-2016
 
-  Bounce Z Ballz was built and released initially on **_iOS 4_** in March of 2011 and worked through **_iOS 10_** in November of 2016.  Built leveraging the **_box2d_** and **_cocoas2d_** frameworks, the goal of the game is to bounce your ball off of every spring to get to the goal without hitting any blocks.
+  Bounce Z Ballz was built and released initially on **_iOS 4_** in March of 2011 and was on the App Store through **_iOS 10_** in November of 2016.  Built leveraging the **_box2d_** and **_cocoas2d_** frameworks, the goal of the game is to bounce your ball off of every spring to get to the goal without hitting any blocks.
 
-  You can search through all the code and resources to see how it works although the binary will probably not compile unless you update the 3rd party frameworks and resulting API changes.  Since the game was also built in a time where there was only one screen size (!), all of the assets are for a 3.5' iPhone screen and will not look great on larger devices.
+  You can search through all the code and resources to see how it works although the binary will probably not compile unless you update the 3rd party frameworks and resulting API changes.  Since the game was also built in a time where there was only one screen size (!), all of the assets are for a 3.5" iPhone screen and will not look great on larger devices.
 
 ## License
 
